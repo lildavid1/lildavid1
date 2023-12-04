@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  
-## Connect with Me
+# Connect with Me
 
 [![LinkedIn](LinkedIn Badge)](LinkedIn Profile)
 [![LeetCode](LeetCode Badge)](LeetCode Profile)
