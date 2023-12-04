@@ -33,13 +33,6 @@ Welcome to My Awesome Project! This project does something amazing and solves a 
 
 ![Project Logo](images/logo.png)
 
-<details>
-<summary>Click to expand</summary>
-Additional content goes here.
-
-</details>
-helloWorld();
-
 
 ## Installation
 
@@ -49,3 +42,9 @@ To install My Awesome Project, follow these steps:
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 npm install
+```javascript
+function helloWorld() {
+    console.log("Hello, World!");
+}
+
+helloWorld();
