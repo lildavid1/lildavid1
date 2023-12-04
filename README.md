@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- 
-# Connect with Me
-
-[![LinkedIn](LinkedIn Badge)](LinkedIn Profile)
-[![LeetCode](LeetCode Badge)](LeetCode Profile)
 
 
 # My Awesome Project
