@@ -33,11 +33,11 @@ Welcome to My Awesome Project! This project does something amazing and solves a 
 
 ![Project Logo](images/logo.png)
 
-Please note that you should replace placeholders like `your-username`, `your-repo`, and provide actual content and images specific to your project. The above is a template, and you should customize it based on your project's details.
-function helloWorld() {
-    console.log("Hello, World!");
-}
+<details>
+<summary>Click to expand</summary>
+Additional content goes here.
 
+</details>
 helloWorld();
 
 
