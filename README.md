@@ -1,4 +1,4 @@
-# Hi there 👋
+#     Hi there 👋
 
 
 **lildavid1/lildavid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,12 +39,7 @@ Welcome to My Awesome Project! This project does something amazing and solves a 
 To install My Awesome Project, follow these steps:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-npm install
-```javascript
-function helloWorld() {
-    console.log("Hello, World!");
-}
+git clone https://github.com/lildavid1/david.ayomide.io.git
+cd david.ayomide.io
+flask run
 
-helloWorld();
