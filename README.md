@@ -1,4 +1,4 @@
-                                                                                  <center>Hi there 👋</center>
+        Hi there 👋
 
 
 **lildavid1/lildavid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
