@@ -35,12 +35,3 @@ Welcome to My Awesome Project! This project does something amazing and solves a 
 ![Project Logo](images/logo.png)
 
 
-## Installation
-
-To install My Awesome Project, follow these steps:
-
-```bash
-git clone https://github.com/lildavid1/david.ayomide.io.git
-cd david.ayomide.io
-flask run
-
